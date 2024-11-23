@@ -1,0 +1,415 @@
+problemas de Ordenador {
+    ¿Tiene problemas de rendimiento?{
+        ¿Está lenta?{
+            Revisar Hardware{
+                Probar HDD/SSD{
+                    Usar herramientas de diagnostico como CrystalDiskInfo para conocer el estado del disco.
+                    Reemplazar el disco duro dañado.
+                }
+                Ampliar Memoria RAM{
+                    ¿Qué tipo de RAM tiene?{
+                        ¿Es DIMM/SODIMM?{
+                            ¿Hay Slots disponibles?{
+                                Si hay Slots Disponibles{
+                                    ¿Qué generación de RAM es?{
+                                        Es DDR{
+                                            Debes adquirir y colocar una Memoria RAM DDR de 256MB Recomendado.
+                                        }
+                                        Es DDR2{
+                                            Debes adquirir y colocar una Memoria RAM DDR2 de 1GB Recomendado.
+                                        }
+                                        Es DDR3{
+                                            Debes adquirir y colocar una Memoria RAM DDR3 de 4GB Recomendado.
+                                        }
+                                        Es DDR4{
+                                            Debes adquirir y colocar una Memoria RAM DDR4 de 8GB Recomendado.
+                                        }
+                                        Es DDR5{
+                                            Debes adquirir y colocar una Memoria RAM DDR5 de 8GB Recomendado.
+                                        }
+                                    }
+                                }
+                                No hay Slots Disponibles{
+                                    Verificar si se puede reemplazar una RAM de menor capacidad{
+                                        Hay una RAM que quiero reemplazar{
+                                            Verificar Generación de RAM{
+                                                DDR{
+                                                    Debes adquirir y colocar una Memoria RAM DDR de 256MB Recomendado.
+                                                }
+                                                DDR2{
+                                                    Debes adquirir y colocar una Memoria RAM DDR2 de 1GB Recomendado.
+                                                }
+                                                DDR3{
+                                                    Debes adquirir y colocar una Memoria RAM DDR3 de 4GB Recomendado.
+                                                }
+                                                DDR4{
+                                                    Debes adquirir y colocar una Memoria RAM DDR4 de 8GB Recomendado.
+                                                }
+                                                DDR5{
+                                                    Debes adquirir y colocar una Memoria RAM DDR5 de 8GB Recomendado.
+                                                }
+                                            }
+                                        }
+                                        No hay una RAM que puedo reemplazar{
+                                            No se puede ampliar la Memoria RAM.
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        Row of chips{
+                            No se puede ampliar la Memoria RAM.
+                        }
+                    }
+                }
+                Actualizar Componentes Obsoletos{
+                        Reemplazar CPU{
+                            ¿Es el CPU es Modular?{
+                                Es Modular {
+                                    ¿Qué marca de CPU es?{
+                                        Intel{
+                                            ¿Qué Socket Intel es?{
+                                                Es LGA 771{
+                                                    Reemplaza tu CPU por uno LGA 771 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj o mejor compra una nueva computadora.
+                                                }
+                                                Es LGA 775{
+                                                    Reemplaza tu CPU por uno LGA 775 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj o ya mejor deshazte de tu computadora y compra una nueva.
+                                                }
+                                                Es LGA 1150{
+                                                    Reemplaza tu CPU por uno LGA 1150 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es LGA 1151{
+                                                    Reemplaza tu CPU por uno LGA 1151 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es LGA 1155{
+                                                    Reemplaza tu CPU por uno LGA 1155 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es LGA 1156{
+                                                    Reemplaza tu CPU por uno LGA 1156 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es LGA 1366{
+                                                    Reemplaza tu CPU por uno LGA 1366 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es LGA 2011/ LGA 2011-v3{
+                                                    Reemplaza tu CPU por uno LGA 2011 o 2011-v3 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es LGA 1200{
+                                                    Reemplaza tu CPU por uno LGA 1200 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es LGA 1700{
+                                                    Reemplaza tu CPU por uno LGA 1700 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es LGA 2066{
+                                                    Reemplaza tu CPU por uno LGA 2066 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                            }
+                                        }
+                                        AMD{
+                                            ¿Qué Socket Intel es?{
+                                                Es 462{
+                                                    Reemplaza tu CPU por uno 462 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj o piensa en adquirir un nuevo ordenador.
+                                                }
+                                                Es 754{
+                                                    Reemplaza tu CPU por uno 754 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj o tirala, ya es muy vieja.
+                                                }
+                                                Es 939{
+                                                    Reemplaza tu CPU por uno 939 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj o rezale porque ya debes deshacerte de ella.
+                                                }
+                                                Es AM2+{
+                                                    Reemplaza tu CPU por uno AM2+ de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es AM3+{
+                                                    Reemplaza tu CPU por uno AM3+ de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es FM1{
+                                                    Reemplaza tu CPU por uno FM1 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es FM2{
+                                                    Reemplaza tu CPU por uno FM2 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es FM2+{
+                                                    Reemplaza tu CPU por uno FM2+ de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es G34{
+                                                    Reemplaza tu CPU por uno G34 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj pero yo que tu considero comprar otra computadora.
+                                                }
+                                                Es C32{
+                                                    Reemplaza tu CPU por uno C32 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj pero yo que tu compraría otra computadora.
+                                                }
+                                                Es TR4{
+                                                    Reemplaza tu CPU por uno TR4 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es sTRX4{
+                                                    Reemplaza tu sTRX4 por uno LGA de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es AM4{
+                                                    Reemplaza tu CPU por uno AM4 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj.
+                                                }
+                                                Es AM5{
+                                                    Reemplaza tu CPU por uno AM5 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj aunque dudo que tu computadora estpe lenta.
+                                                }
+                                                Es SP3{
+                                                    Reemplaza tu CPU por uno SP3 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj, además ¿Por qué usas un Servidor?.
+                                                }
+                                                Es SP5{
+                                                    Reemplaza tu CPU por uno SP5 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj, además ¿Qué andas haciendo un un Servidor?.
+                                                }
+                                                Es SP6{
+                                                    Reemplaza tu CPU por uno SP6 de una generación más moderna, con más núcleos, más memoria caché y más frecuencia de reloj, pero dudo que esté lento tu super servidor.
+                                                }
+                                            }
+                                        }
+                                        Qualcom{
+                                            No se puede reemplazar el CPU.
+                                        }
+                                    }
+                                }
+                                No Es Modular{
+                                    No se puede reemplazar el CPU.
+                                }
+                            }
+                        }
+                    }
+                    Reemplazar GPU{
+                        ¿Qué tipo de GPU es o qué bus de datos usa?{
+                            On Board{
+                                No se puede reemplazar tu GPU.
+                            }
+                            APU{
+                                No se puede reemplazar tu APU.
+                            }
+                            PCI{
+                                Adquiere una GPU que no provoque cuello de botella con tu CPU.
+                            }
+                            PCI Express{
+                                Adquiere una GPU tan potente como tu CPU para evitar el cuello de botella con el CPU.
+                            }
+                        }
+                    }
+                    Reemplazar Motherboard{
+                        Intenta adquirir el mismo modelo de motherboard, ya sea de laptop o de PC o uno con el socket equivalente al de tu CPU, si el CPU no es modular, adquirir una motherboard con conectores de tu motherboard dañado.
+                    }
+                    Reemplazar PSU{
+                        Adquiere un PSU que sea de la misma o mayor potencia a la dañada. Además verifica que tenga los mismos conectores y factor de forma que la dañada.
+                    }
+                    Reemplazar HDD{
+                        Los discos HDD suelen estropearse con el tiempo, adquiere un SSD, ¿Qué Bus tiene disponible tu Ordenador?{
+                            SATA{
+                                Adquiere un SSD con puerto SATA, no son los más rápidos pero para usuarios promedio satisface todas sus necesidades, son discos rectangulares delgados de 6.8cm x 3.96cm.
+                            }
+                            MSATA {
+                                Adquiere un SSD que se conecte por MSATA. No son tan comunes pero usan un puerto SATA reducido para tarjetas delgadas con un puerto poco más grande que el M.2. 
+                            }
+                            M.2 SATA {
+                                Adquiere un SSD que use el puerto M.2 pero que sea de interfaz Sata. Son tarjetas delgadas, más chicas que las MSATA y tienen tres Patas, Una chica, una grande y una chica en esa jerarquía.
+                            }
+                            M.2 NVMe{
+                                Adquiere un SSD que use el puerto M.2, son tarjetas delgadas un poco más pequeñas que el MSATA con dos patas, una chica y una grande, así sabemos que es M.2 NVMe y no M.2 SATA.
+                            }
+                        }
+                    }
+                }
+            Revisar Softare{
+                Actualizar Sistema Operativo (SO){
+                    ¿Qué sistema operativo usas?{
+                        Windows{
+                            Busca en la barra de tareas "Buscar Actualizaciones" y presiona "Buscar Actualizaciones". Asegurate de que el sistema no te pida más actualizacioes.
+                        }
+                        Linux{
+                            Independiente de la distribución que se use, accede a la terminal y coloca el comando "sudo apt-get dist-upgrade" para actualizar el sistema operativo. Asegurate de que el sistema no te pida más actualizacioes.
+                        }
+                        Android{
+                            Accede a configuración, busca "Actualizacion del sistema" y toca el botón "Buscar actualizaciones". Asegurate de que el sistema no te pida más actualizaciones.
+                        }
+                        Mac OS{
+                            Busca en Spotlight "Actualización de Software" e inicia el proceso de búsqueda de software nuevo automáticamente. Antes de instalar las actualizaciones te pedirá la contraseña de administrador, la colocas, confirmas y comenzará la instalación de las actualizaciones.
+                        }
+                        Otro{
+                            En promedio, debes acceder a un panel de Actualizaciones y buscas las actualizaciones más recientes automáticamente y se instalan por su cuenta.
+                        }
+                    }
+                }
+                Buscar Malware{
+                    Escanear con antivirus{
+                        Activar el análisis de Malware con tu antivirus de confianza.
+                    }
+                    Nuestra recomendación{
+                        Usa herramientas antimalware como Malwarebytes. Es un software de confianza que comprende la mayoría de las vulnerabilidades de tu sistema operativo y las soluciona.
+                    }
+                    Buscar manualmente{
+                        Inicia tu dispositivo en modo seguro para buscar manualmente malware.
+                    }
+                }
+                Eliminar programas Innecesarios{
+                    Desinstala programas que ya no usas.
+                }
+                Optimizar el inicio{
+                    Deshabilita de inprogramas que inician con el arranque los programas que no usas con frecuencia.
+                }
+                Reducir procesos en segundo plano{
+                        Programas corriendo monitoreados desde el Administrador de Tareas{
+                            Abre el administrador de tareas y Finaliza el Proceso de cada programa que no uses y NO SEA UN RECURSO DEL SISTEMA.
+                        }
+                        Servicios que se ejecutan por detrás{
+                            Abre Servicios y deshabilita servicios que no usas para optimizar el rendimiento del sistema ene general.
+                        }
+                    }
+                }
+            }
+        ¿Se congela?{
+                Problemas de Controladores{
+                    Drivers de GPU{
+                        Instalar o Actualizar los controladores correctos de tu GPU.
+                    }
+                    Drivers del chipset{
+                        ¿Usas PC o Laptop?{
+                            PC{
+                                Busca los controladores en la página oficial de soporte de tu motherboard y busca el modelo de tu motherboard, el modelo se suele encontar dibujado fisicamente en la superficie de la motherboard.
+                            }
+                            Laptop{
+                                ¿Qué marca de CPU usas?{
+                                    Intel{
+                                        Busca los controladores en la página oficial de soporte de la marca de tu laptop y busca el modelo de tu laptop.
+                                    }
+                                    AMD{
+                                        Descarga los Actualizador de controladores automático de AMD en la página oficial, usualmente contiene tanto drivers de Video como de Chipset.
+                                    }
+                                    Qualcom{
+                                        Busca los controladores en la página oficial de soporte de la marca de tu laptop y busca el modelo de tu laptop.
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                Sistema Operativo Corrupto{
+                    Ejecutar SFC y DISM{
+                        Reparar archivos del sistema con SFC y DISM.
+                    }
+                    Reinstalar el sistema operativo{
+                        Usa una USB que no tenga almacenada información importante ya que se eliminará. Descarga MediaCreationTool de tu sistema Windows, ISO de Linux o ISO de Mac OS que requieras, sigue las instrucciones de la página de descarga de estas herramientas. Como auxiliar con archivos ISO puedes usar Rufus, es un programa para flashear archivos ISO en tu USB.
+                    }
+                }
+                Hardware en mal estado{
+                    Revisa físicamente el hardware de tu ordenador, usualmente se estropean los capacitores o fusibles, echales un ojo.
+                }
+            }
+        ¿Se apaga?{
+            La temperatura es demasiado alta y los ventiladores son muy ruidosos{
+                    Limpieza de Ventilador/es y discipador/es{
+                        Usa una lata de aire comprimido o una pistola de aire (no secadora de pelo) y sopla en el discipador y el ventilador de tu computadora. Procura que la suciedad salga y no entre al ventilador.
+                    }
+                    Cambio de pasta térmica{
+                        Abre tu computadora, usa las herramientas adecuadas comodestornilladores, algodón, alcohol y pasta térmica de calidad. Retira el sistema de refrigeración de tu CPU y/o GPU, limpia la pasta térmica antigua cuidadosamente y coloca la cantidad de un grano de arroz en el núcleo del CPU o GPU. Coloca y atornilla el discipador de forma uniforme atornillando levemente todos los tornillos hasta que todos queden apretados uniformemente, cierra tu computadora y monitorea las temperaturas con programas como HWInfo.
+                    }
+                    Revisión de sistema de refrigeración{
+                        Revisa que el discipador este bien atornillado, que la pasta térmica esté en buen estado y que no estén golpeados lis pipe lines de cobre.
+                    }
+                }
+            Falta de Energía{
+                Revisar el PSU/Cargador{
+                        Revisa que esté en buen estado, en caso de poseer un multimetro, revisar que dé los voltajes y amperajes que diga la ficha técnica que tiene el PSU/cargador en su etiqueta.
+                    }
+                Reemplazar batería{
+                        Reemplazar a batería de tu laptop. Puede que una celda estpe en mal estado y no entregue el voltaje esperado al sistema y cause esos apagones repentinos.
+                    }
+                }
+            }
+        }
+    Problemas de Arranque{
+        Sin Energía{
+            Revisar el PSU/Cargador{
+                Revisa que esté en buen estado, en caso de poseer un multimetro, revisar que dé los voltajes y amperajes que diga la ficha técnica que tiene el PSU/cargador en su etiqueta.
+            }
+            Reemplazar batería{
+                Reemplazar a batería de tu laptop. Puede que una celda estpe en mal estado y no entregue el voltaje esperado al sistema y cause esos apagones repentinos.
+            }
+            Problemas en la motherboard o componentes adyacentes{
+                Verificar conexiones y contactar al soporte técnico si el problema persiste.
+            }
+        }
+        Sin Video{
+            Problemas con la RAM{}
+            Problemas con la pantalla{}
+            Probelmas de BIOS{}
+        }
+        Códigos de error con Sonidos{
+            1 largo, dos cortos{
+                Fallo en la motherboard o GPU{
+                    Verificar las conexiones de GPU y motherboard.
+                    Reemplazar la motherboard o GPU si están dañadas.
+                }
+            }
+            3 largos, dos cortos{
+                RAM mal colocada o con puertos sucios{
+                    Intenta recolocar la Memoria RAM correctamente o limpia los puertos con un paño seco y poco abrasivo.
+                }
+            }
+            4 pitidos{
+                Fallo en Chip de Seguridad{
+                    Revisar el Chip de seguridad o contactar con soporte técnico de la marca de tu motherboard o Laptop.
+                }
+            }
+        }
+    }
+    Códigos de error{
+        Códigos de Luces{
+            2 rojos, 2 blancos{
+                Bios corrupto{
+                    Recuperar BIOS desde una unidad USB{
+                        Accede al soporte del fabricante de tu laptop o motherboard y busca herramientas de recuperación de BIOS.
+                    }
+                    Restablecer el BIOS con shortcuts{
+                        Usa teclas especificas definidas por tu fabricante de motherboard o laptop para presionar durante el arranque para el restablecimiento del BIOS. Usualmente es la tecla "Windows" + "B".
+                    }
+                }
+            }
+            3 rojos, dos blancos{
+                Fallo de Memoria RAM{
+                    Recolocar RAM{
+                        Abre tu computadora, quita la RAM y colocala de nuevo, si es posible limpiala cuidadosamente con un paño poco abrasivo.
+                    }
+                    Cambiar RAM{
+                        En caso de que hayas recolocado la RAM y sigue sin funcionar, es probable que una de ellas o la única esté dañada, verifica cuál es la dañada probando una por una hasta que la computadora falle. Además verifica que el Slot no esté sucio ni estpe dañado. Para saber si esá dañado, coloca una RAM que sepas que está buena en ese Slot.
+                    }
+                }
+            }
+            3 rojos, 3 blancos{
+                Fallo en la GPU{
+                    Revisar físicamente la GPU{
+                        Abre tu computadora y revisa tu GPU si tiene componentes quemados o dañados. En laptops debes revisar debajo del discipador quitandolo, usualmente está al lado del CPU y debajo del discipador. Si está dañada debes cambiar de GPU o de laptop.
+                    }
+                    Actualizar Drivers{
+                        En caso de que tu Computadora encienda, prueba descargando los drivers correctos y oficiales de tu GPU.
+                    }
+                    Reempalzar GPU{
+                        En caso de que ninguna solución te haya funcionado. Prueba cambiar de GPU por una nueva. O bien, usa los gráficos integrados de tu procesador (APU).
+                    }
+                }
+            }
+            5 rojos, 2 blancos{
+                Problemas con el controlador integrado{
+                    Intenta reiniciar el controlador integrado siguiendo los pasos de recuperación de la página de soporte de tu fabricante de laptop o motherboard.
+                }
+            }
+        }
+        Errores POST{
+            Error de Suma CMOS{
+                Rempalzar batería de CMOS. Usualmentes es una pila de reloj puesta encima de la motherboard. Algunas laptops usan baterías especificas, intenta comprar la oficial para tu laptop. Si tu laptop no tiene batería CMOS, trata de quitar la batería principal de la laptop.
+            }
+            Sin POST{
+                Probar RAM{
+                    Recolocar RAM{
+                        Abre tu computadora, quita la RAM y colocala de nuevo, si es posible limpiala cuidadosamente con un paño poco abrasivo.
+                    }
+                    Cambiar RAM{
+                        En caso de que hayas recolocado la RAM y sigue sin funcionar, es probable que una de ellas o la única esté dañada, verifica cuál es la dañada probando una por una hasta que la computadora falle. Además verifica que el Slot no esté sucio ni estpe dañado. Para saber si esá dañado, coloca una RAM que sepas que está buena en ese Slot.
+                    }
+                }
+                Reempalzar Motherboard{
+                    Contactar con el soporte de tu laptop o motherboard para la revisión de tu motherboard, el cambio de ella o directamente la compra de una nueva laptop. En PC solo es el cambio de motherboard.
+                }
+            }
+        }
+    }
+}

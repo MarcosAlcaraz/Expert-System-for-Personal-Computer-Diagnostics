@@ -1,0 +1,749 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0 (Edition std-2)" version="24.8.6">
+  <diagram name="Árbol de Conocimiento" id="0">
+    <mxGraphModel dx="13352" dy="4760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Problemas en Laptop" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="707" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2240" y="330" />
+              <mxPoint x="-2440" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2240" y="330" as="sourcePoint" />
+            <mxPoint x="-2940" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="Problemas de Rendimiento" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-2300" y="225" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Problemas de Arranque" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="Wz6zYILz41rzN1iIAEfl-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="Wz6zYILz41rzN1iIAEfl-250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Lenta" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="-3890" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="Wz6zYILz41rzN1iIAEfl-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="Wz6zYILz41rzN1iIAEfl-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Se Congela" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-2500" y="365" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="Wz6zYILz41rzN1iIAEfl-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7" target="Wz6zYILz41rzN1iIAEfl-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Sin Energía" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1280" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="Wz6zYILz41rzN1iIAEfl-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="Wz6zYILz41rzN1iIAEfl-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="Wz6zYILz41rzN1iIAEfl-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Sin Pantalla" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-460" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-14" target="Wz6zYILz41rzN1iIAEfl-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-14" target="Wz6zYILz41rzN1iIAEfl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-14" value="Códigos de error" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="Wz6zYILz41rzN1iIAEfl-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="100" as="sourcePoint" />
+            <mxPoint x="670" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-16" value="Sobrecalentamiento" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Wz6zYILz41rzN1iIAEfl-16" source="2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="90" as="sourcePoint" />
+            <mxPoint x="1070" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-18" target="Wz6zYILz41rzN1iIAEfl-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-18" value="Temperatura ambiente alta&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-19" target="Wz6zYILz41rzN1iIAEfl-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-19" target="Wz6zYILz41rzN1iIAEfl-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-19" value="GPU Sobrecalentada" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-20" target="Wz6zYILz41rzN1iIAEfl-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-20" target="Wz6zYILz41rzN1iIAEfl-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-20" value="CPU Sobrecalentada" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-16" target="Wz6zYILz41rzN1iIAEfl-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2610" y="340" as="sourcePoint" />
+            <mxPoint x="2660" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2450" y="270" />
+              <mxPoint x="2390" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-16" target="Wz6zYILz41rzN1iIAEfl-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2790" y="270" as="sourcePoint" />
+            <mxPoint x="2510" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2940" y="270" />
+              <mxPoint x="3010" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-16" target="Wz6zYILz41rzN1iIAEfl-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2680" y="290" as="sourcePoint" />
+            <mxPoint x="2520" y="380" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-25" value="Asegurarse de que no haya polvo que obstruya el flujo de aire." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-27" target="Wz6zYILz41rzN1iIAEfl-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-27" value="Aplicar pasta térmica" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-28" target="Wz6zYILz41rzN1iIAEfl-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-28" value="Limpiar ventiladores&amp;nbsp;&lt;div&gt;y disipadores&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-33" value="Reemplazar la pasta térmica de la CPU." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-35" value="Eliminar polvo acumulado en la tarjeta gráfica." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-37" target="Wz6zYILz41rzN1iIAEfl-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-37" value="Revisar sistema de enfriamiento&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-39" target="Wz6zYILz41rzN1iIAEfl-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-39" value="Limpiar la GPU" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-40" value="Asegurarse de que los ventiladores del sistema estén funcionando correctamente." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="590" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.999;exitY=0.586;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-50" target="Wz6zYILz41rzN1iIAEfl-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-50" value="Errores POST" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-51" target="Wz6zYILz41rzN1iIAEfl-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-51" target="Wz6zYILz41rzN1iIAEfl-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-51" value="Códigos de luces (Rojo/Blanco)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="980" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-55" target="Wz6zYILz41rzN1iIAEfl-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1630" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-55" target="Wz6zYILz41rzN1iIAEfl-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-55" value="Error se suma CMOS" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-56" target="Wz6zYILz41rzN1iIAEfl-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-56" value="Sin Post" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1904" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-59" target="Wz6zYILz41rzN1iIAEfl-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-59" value="Remplazar placa Madre" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2008" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-61" target="Wz6zYILz41rzN1iIAEfl-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1780" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1780" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-61" target="Wz6zYILz41rzN1iIAEfl-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1920" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1920" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-61" value="Probar RAM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-62" value="Contactar soporte para revisión de la placa madre." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2008" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=-0.045;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-56" target="Wz6zYILz41rzN1iIAEfl-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-69" value="Reemplazar Batería CMOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-74" value="Verificar la polaridad y la instalación de la batería CMOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-50" target="Wz6zYILz41rzN1iIAEfl-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1550" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-79" value="Reinstalar RAM en diferentes ranuras" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-80" value="Reemplazar RAM si sigue sin arrancar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-81" target="Wz6zYILz41rzN1iIAEfl-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-81" target="Wz6zYILz41rzN1iIAEfl-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="821" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-81" value="2 Rojos, 2 Blancos: BIOS Corrupto" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="670" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-82" target="Wz6zYILz41rzN1iIAEfl-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-82" value="5 Rojos, 2 Blancos: Problema en Controlador Integrado" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-83" target="Wz6zYILz41rzN1iIAEfl-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-83" value="3 Rojos, 3 Blancos: Fallo en GPU" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-84" target="Wz6zYILz41rzN1iIAEfl-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-84" value="3 Rojos, 2 Blancos: Fallo en Memoria" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="905" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.553;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-51" target="Wz6zYILz41rzN1iIAEfl-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.447;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-51" target="Wz6zYILz41rzN1iIAEfl-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-93" value="Recuperar el BIOS desde una unidad USB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="580" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-94" value="Restablecer el BIOS usando teclas específicas (Windows + B)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="760" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-95" value="Recolocar o reemplazar los módulos de RAM." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="905" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-96" value="Revisar la GPU, actualizar drivers, o reemplazarla." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-97" value="Reiniciar controlador integrado siguiendo pasos de recuperación." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-101" target="Wz6zYILz41rzN1iIAEfl-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-101" target="Wz6zYILz41rzN1iIAEfl-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-101" target="Wz6zYILz41rzN1iIAEfl-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-101" value="Códigos de pitidos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4" target="Wz6zYILz41rzN1iIAEfl-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="300" as="sourcePoint" />
+            <mxPoint x="10" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-105" target="Wz6zYILz41rzN1iIAEfl-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="19" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-105" target="Wz6zYILz41rzN1iIAEfl-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-105" value="1 Largo, 2 Cortos: Fallo en Placa Madre o GPU" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-107" target="Wz6zYILz41rzN1iIAEfl-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-107" value="4 Pitidos: Fallo en Chip de Seguridad" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="435" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-109" target="Wz6zYILz41rzN1iIAEfl-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-109" value="3 Largos, 2 Cortos: RAM Mal Colocada" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="285" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-110" value="Verificar conexiones de GPU y placa madre" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-111" value="Reemplazar placa madre o GPU si está dañada" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-112" value="Recolocar la memoria RAM correctamente." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="285" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-113" value="Revisar el chip de seguridad o contactar soporte técnico." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="435" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-119" target="Wz6zYILz41rzN1iIAEfl-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-119" value="Problemas de BIOS" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-122" target="Wz6zYILz41rzN1iIAEfl-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-122" target="Wz6zYILz41rzN1iIAEfl-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-122" value="Problemas de pantalla" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-125" target="Wz6zYILz41rzN1iIAEfl-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-125" target="Wz6zYILz41rzN1iIAEfl-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-125" value="Problemas de RAM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-126" value="Asegurarse de que las memorias estén bien insertadas." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-128" target="Wz6zYILz41rzN1iIAEfl-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-128" value="Reemplazar RAM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-130" target="Wz6zYILz41rzN1iIAEfl-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-130" value="Recolocar RAM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-131" value="Probar con otro módulo de RAM si el problema persiste." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-132" value="Asegurarse de que el cable de la pantalla está conectado correctamente." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-134" target="Wz6zYILz41rzN1iIAEfl-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-134" value="Remplazar pantalla" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-136" target="Wz6zYILz41rzN1iIAEfl-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-136" value="Revisar cable LCD" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-137" value="Cambiar la pantalla LCD si está dañada." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="670" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-139" target="Wz6zYILz41rzN1iIAEfl-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-139" value="Restablecer BIOS" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-140" value="Hacer un &#39;reset&#39; del BIOS mediante el jumper o batería CMOS." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="670" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-145" target="Wz6zYILz41rzN1iIAEfl-157">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1090" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-145" value="Problemas en placa madre&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Wz6zYILz41rzN1iIAEfl-153">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1390" y="575" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-148" target="Wz6zYILz41rzN1iIAEfl-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-148" target="Wz6zYILz41rzN1iIAEfl-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-148" value="Adaptador o Batería" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1450" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-149" value="Usar un multímetro para verificar la salida de corriente." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1450" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-153" target="Wz6zYILz41rzN1iIAEfl-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-153" value="Probar Adaptador de Corriente" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1450" y="575" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-157" value="Verificar conexiones y contactar soporte si el problema persiste." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="650" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-160" target="Wz6zYILz41rzN1iIAEfl-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-160" target="Wz6zYILz41rzN1iIAEfl-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-160" value="Se apaga" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1960" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="Wz6zYILz41rzN1iIAEfl-160">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2311" y="300" as="sourcePoint" />
+            <mxPoint x="-2211" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2240" y="330" />
+              <mxPoint x="-1900" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-162" target="Wz6zYILz41rzN1iIAEfl-173">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1680" y="540.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-162" target="Wz6zYILz41rzN1iIAEfl-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1850" y="540.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-162" value="Falla de alimentación" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1826" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-163" target="Wz6zYILz41rzN1iIAEfl-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-163" value="Subida de temperatura" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2090" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-171" value="Usar un multímetro para verificar la salida de corriente." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1920" y="635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-173" target="Wz6zYILz41rzN1iIAEfl-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-173" value="Reemplazar Batería" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1670" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-175" target="Wz6zYILz41rzN1iIAEfl-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-175" value="Revisar Adaptador de Alimentación" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1920" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-176" value="Cambiar la batería por una nueva si no funciona." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1670" y="625" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-188" target="Wz6zYILz41rzN1iIAEfl-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-188" value="Limpiar Ventiladores" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2090" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-190" value="Usar aire comprimido para eliminar el polvo acumulado." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2090" y="645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-194" target="Wz6zYILz41rzN1iIAEfl-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-194" target="Wz6zYILz41rzN1iIAEfl-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-194" value="Sistema Operativo Corrupto" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2340" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-197" target="Wz6zYILz41rzN1iIAEfl-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-197" target="Wz6zYILz41rzN1iIAEfl-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-197" value="Problemas de Controladores" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2670" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-198" value="Descargar e instalar los controladores más recientes de la GPU." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2750" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-200" target="Wz6zYILz41rzN1iIAEfl-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-200" value="Actualizar Drivers de Chipset" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2590" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-202" target="Wz6zYILz41rzN1iIAEfl-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-202" value="Actualizar Drivers de GPU" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2750" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-203" value="Descargar el último controlador de chipset para la placa base." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2590" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-204" value="Reparar archivos del sistema con SFC y DISM." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2430" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-206" target="Wz6zYILz41rzN1iIAEfl-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-206" value="Reinstalar Sistema Operativo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2260" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-208" target="Wz6zYILz41rzN1iIAEfl-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-208" value="Ejecutar SFC y DISM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2430" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-209" value="Formatear y reinstalar el sistema operativo desde cero." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2260" y="670" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-220" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-214" target="Wz6zYILz41rzN1iIAEfl-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-214" target="Wz6zYILz41rzN1iIAEfl-215">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-214" target="Wz6zYILz41rzN1iIAEfl-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-214" target="Wz6zYILz41rzN1iIAEfl-219">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-214" value="Revisar Software" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-3300" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-215" target="Wz6zYILz41rzN1iIAEfl-232">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-215" target="Wz6zYILz41rzN1iIAEfl-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-215" value="Buscar Malware" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3520" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-227" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-216" target="Wz6zYILz41rzN1iIAEfl-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-216" value="Actualizar sistema operativo (SO)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3750" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-241" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-217" target="Wz6zYILz41rzN1iIAEfl-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-217" value="Optimizar el Inicio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3130" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-239" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-218" target="Wz6zYILz41rzN1iIAEfl-238">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-218" value="Eliminar Programas Innecesarios" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3300" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-219" value="Reducir Procesos en Segundo Plano" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2950" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.438;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-214" target="Wz6zYILz41rzN1iIAEfl-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-226" value="Asegúrate de tener las últimas actualizaciones del SO." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-3750" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-230" value="Usar herramientas antimalware como Malwarebytes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-3440" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-232" value="Escanear con antivirus confiable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-3600" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-238" value="Desinstalar programas que no se usan." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-3300" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-240" value="Deshabilitar programas que se inician con el sistema." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-3130" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Wz6zYILz41rzN1iIAEfl-245" source="Wz6zYILz41rzN1iIAEfl-219">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2954" y="670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="Wz6zYILz41rzN1iIAEfl-244" source="Wz6zYILz41rzN1iIAEfl-219">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2834" y="670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-244" target="Wz6zYILz41rzN1iIAEfl-247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-244" value="Deshabilitar Servicios Innecesarios" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2874" y="735" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-245" target="Wz6zYILz41rzN1iIAEfl-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-245" value="Revisar Administrador de Tareas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3034" y="735" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-246" value="Cerrar procesos innecesarios que consuman recursos." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-3034" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-247" value="Configurar servicios del sistema para optimizar el rendimiento." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-2874" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-255" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-250" target="Wz6zYILz41rzN1iIAEfl-252">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-250" target="Wz6zYILz41rzN1iIAEfl-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-250" target="Wz6zYILz41rzN1iIAEfl-254">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-250" value="Revisar Hardware" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-4200" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-252" target="Wz6zYILz41rzN1iIAEfl-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-252" value="Ampliar Memoria RAM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-4200" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-253" value="Probar HDD/SSD" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-4425" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wz6zYILz41rzN1iIAEfl-254" target="Wz6zYILz41rzN1iIAEfl-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-254" value="Actualizar Componentes Obsoletos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-3975" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-258" value="Reemplazar hardware como CPU o GPU si no cumplen con los requisitos actuales." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-3975" y="650" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-260" value="Agregar más RAM si el sistema tiene poca memoria." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-4200" y="650" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Wz6zYILz41rzN1iIAEfl-265" source="Wz6zYILz41rzN1iIAEfl-253">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4365" y="645" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="Wz6zYILz41rzN1iIAEfl-264" source="Wz6zYILz41rzN1iIAEfl-253">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4365" y="645" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-264" value="Reemplazar disco duro si está dañado" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-4345" y="735" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wz6zYILz41rzN1iIAEfl-265" value="Usar herramientas de diagnóstico como CrystalDiskInfo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-4505" y="735" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
