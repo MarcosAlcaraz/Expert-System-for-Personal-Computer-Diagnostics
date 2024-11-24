@@ -24,7 +24,7 @@ problemas de Ordenador {
                                         Es DDR4{
                                             Debes adquirir y colocar una Memoria RAM DDR4 de 8GB Recomendado.
                                         }
-                                        Es DDR5{
+                                        Es DDR5{    
                                             Debes adquirir y colocar una Memoria RAM DDR5 de 8GB Recomendado.
                                         }
                                     }

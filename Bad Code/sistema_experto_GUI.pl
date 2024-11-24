@@ -26,27 +26,42 @@ pregunta(codigo_error, '¿El sistema emite códigos de error sonoros o luminosos
 % Predicado principal para iniciar el sistema experto
 inicio :-
     new(D, dialog('Sistema Experto')),
-    send(D, append, new(_, label(text, '¿Cuál es el problema?'))), % Pregunta actual
-    send(D, append, button(si, message(@prolog, responder, si, D))),
-    send(D, append, button(no, message(@prolog, responder, no, D))),
+    send(D, append, new(_, label(texto, 'Responde las siguientes preguntas'))), % Título inicial
     send(D, open),
     assert(dialogo(D)), % Guardar referencia al diálogo
     diagnosticar. % Iniciar el diagnóstico
 
-% Responder a una pregunta
+% Modificado para asegurar que el diálogo no se destruye antes de tiempo
 responder(Respuesta, Dialogo) :-
     retract(dialogo(Dialogo)),
     assert(respuesta_actual(Respuesta)),
-    send(Dialogo, destroy). % Cerrar el cuadro de diálogo
+    assert(dialogo(Dialogo)), % Asegura mantener el diálogo existente
+    diagnosticar. % Continuar diagnóstico después de responder
 
-% Preguntar al usuario
+% Añadir botones de forma separada
+anadir_botones(D) :-
+    send(D, append, button(si, message(@prolog, responder, si, D))),
+    send(D, append, button(no, message(@prolog, responder, no, D))),
+    send(D, layout). % Reorganizar los elementos del diálogo
+
+% Agrega mensajes de depuración
 preguntar(Pregunta) :-
-    retractall(respuesta_actual(_)),
+    retractall(respuesta_actual(_)), % Eliminar respuesta previa
     dialogo(D),
-    send(D, clear),
-    send(D, display, new(_, label(texto, Pregunta)), point(10, 10)),
-    send(D, layout),
-    send(D, wait).
+    writeln('Current Dialog: '), writeln(D), % Debugging
+    send(D, clear), % Limpiar el diálogo
+    send(D, append, new(_, label(texto, Pregunta))), % Añadir la nueva pregunta
+    anadir_botones(D), % Añadir botones
+    send(D, layout), % Reorganizar los elementos del diálogo
+    send(D, wait). % Esperar respuesta del usuario
+
+% Asegura la existencia del diálogo antes de destruir
+finalizar_dialogo :-
+    dialogo(D),
+    (object(D) ->
+        send(D, destroy),
+        retract(dialogo(D));
+        writeln('Dialogo ya destruido')).
 
 % Obtener la respuesta del usuario
 obtener_respuesta(Respuesta) :-
@@ -62,8 +77,10 @@ diagnosticar :-
         pregunta(arranque, PA),
         preguntar(PA),
         obtener_respuesta(RespuestaPA),
-        (RespuestaPA = si -> diagnostico_arranque;
-        writeln('No se detectaron problemas relacionados con rendimiento ni arranque.'))).
+        (RespuestaPA = si ->
+            diagnostico_arranque;
+            writeln('No se detectaron problemas relacionados con rendimiento ni arranque.'),
+            finalizar_dialogo)).
 
 % Diagnóstico de problemas de rendimiento
 diagnostico_rendimiento :-

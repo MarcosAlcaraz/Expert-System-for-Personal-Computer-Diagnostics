@@ -1,0 +1,91 @@
+- **¿Tiene problemas de rendimiento?**
+    - **Sí**
+        - **¿Está lenta?**
+            - **Sí**
+                - **¿El problema parece estar en el hardware?**
+                    - **Sí**
+                        - **¿El HDD/SSD está en buen estado?**
+                            - **No**: **Conclusión:** "Revisar el HDD/SSD con herramientas como CrystalDiskInfo y reemplazarlo si está dañado."
+                            - **Sí**
+                                - **¿Es posible ampliar la RAM?**
+                                    - **Sí**: **Conclusión:** "Ampliar memoria RAM según generación."
+                                    - **No**
+                                        - **¿Es posible actualizar el CPU?**
+                                            - **Sí**: **Conclusión:** "Actualizar el CPU según su tipo y socket."
+                                            - **No**: **Conclusión:** "El problema de hardware no tiene solución práctica en este caso."
+                    - **No**
+                        - **¿El problema parece estar en el software?**
+                            - **Sí**
+                                - **¿Está el sistema operativo actualizado?**
+                                    - **No**: **Conclusión:** "Actualizar el sistema operativo."
+                                    - **Sí**
+                                        - **¿Hay malware en el sistema?**
+                                            - **Sí**: **Conclusión:** "Eliminar malware usando herramientas como Malwarebytes."
+                                            - **No**
+                                                - **¿Hay programas innecesarios que puedas eliminar?**
+                                                    - **Sí**: **Conclusión:** "Eliminar programas innecesarios."
+                                                    - **No**
+                                                        - **¿Se pueden optimizar los programas que inician con el sistema?**
+                                                            - **Sí**: **Conclusión:** "Optimizar el inicio deshabilitando programas innecesarios."
+                                                            - **No**
+                                                                - **¿Se pueden reducir los procesos en segundo plano?**
+                                                                    - **Sí**: **Conclusión:** "Reducir procesos en segundo plano."
+                                                                    - **No**: **Conclusión:** "El problema de software no tiene solución identificada."
+                            - **No**: **Conclusión:** "No se detectaron problemas en hardware ni software."
+            - **No**
+                - **¿Se congela?**
+                    - **Sí**: **Conclusión:** "Revisar controladores, sistema operativo y hardware físico."
+                    - **No**
+                        - **¿Se apaga?**
+                            - **Sí**: **Conclusión:** "Verificar temperaturas, ventiladores y sistema de refrigeración."
+                            - **No**: **Conclusión:** "El problema no parece estar relacionado con el rendimiento."
+- **¿El problema es durante el arranque?**
+    - **Sí**
+        - **¿Hay energía en el sistema?**
+            - **No**: **Conclusión:** "Revisar el PSU/Cargador o reemplazar batería."
+            - **Sí**
+                - **¿El sistema muestra video?**
+                    - **No**: **Conclusión:** "Revisar problemas con la RAM, pantalla o BIOS."
+                    - **Sí**
+                        - **¿El sistema emite códigos de error sonoros o luminosos?**
+                            - **Sí**: **Conclusión:** "Identificar los códigos de error y actuar según la guía del fabricante."
+                            - **No**: **Conclusión:** "El problema de arranque no tiene solución identificada."
+- **¿El problema está relacionado con la red?**
+    - **Sí**
+        - **¿Estás conectado a una red Wi-Fi?**
+            - **Sí**
+                - **¿La velocidad de internet es lenta?**
+                    - **Sí**: **Conclusión:** "Optimizar Wi-Fi: cambiar canal, acercarse al router o reiniciarlo."
+                    - **No**
+                        - **¿Se resolvieron correctamente las direcciones DNS?**
+                            - **No**: **Conclusión:** "Configurar manualmente los servidores DNS, como los de Google."
+                            - **Sí**: **Conclusión:** "La red Wi-Fi parece estar en buen estado."
+            - **No**
+                - **¿Estás usando una conexión por cable?**
+                    - **Sí**: **Conclusión:** "Verificar el cable Ethernet y probar otro puerto."
+                    - **No**: **Conclusión:** "No se detectaron problemas de red evidentes."
+- **¿El problema está relacionado con la pantalla?**
+    - **Sí**
+        - **¿No aparece ninguna imagen en la pantalla?**
+            - **Sí**: **Conclusión:** "Revisar conexiones del monitor y probar con otro cable."
+            - **No**
+                - **¿La pantalla parpadea?**
+                    - **Sí**: **Conclusión:** "Actualizar controladores gráficos y revisar la frecuencia de refresco."
+                    - **No**
+                        - **¿La resolución de la pantalla es baja?**
+                            - **Sí**: **Conclusión:** "Configurar resolución correcta desde la configuración de pantalla."
+                            - **No**
+                                - **¿Aparecen manchas o líneas de colores en la pantalla?**
+                                    - **Sí**: **Conclusión:** "El problema podría ser hardware: revisar la pantalla o tarjeta gráfica."
+                                    - **No**: **Conclusión:** "No se detectaron problemas con la pantalla."
+- **¿El problema está relacionado con el almacenamiento?**
+    - **Sí**
+        - **¿El disco tiene poco espacio disponible?**
+            - **Sí**: **Conclusión:** "Eliminar archivos innecesarios o migrar datos a otro disco."
+            - **No**
+                - **¿Existen archivos corruptos en el sistema?**
+                    - **Sí**: **Conclusión:** "Ejecutar herramientas como CHKDSK en Windows o fsck en Linux."
+                    - **No**
+                        - **¿Hay errores en las particiones del disco?**
+                            - **Sí**: **Conclusión:** "Revisar particiones con herramientas como GParted o Disk Management."
+                            - **No**: **Conclusión:** "No se detectaron problemas de almacenamiento."
